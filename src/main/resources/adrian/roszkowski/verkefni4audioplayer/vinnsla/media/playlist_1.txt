@@ -1,0 +1,2 @@
+media/images/HerdOfDeerInCherryBlossoms.jpg; media/audio/decentbeat.wav; Decent beat
+media/images/Church_Heart_of_the_Andes.jpg; media/audio/BurnTheSoul_2.wav; Burn the Soul

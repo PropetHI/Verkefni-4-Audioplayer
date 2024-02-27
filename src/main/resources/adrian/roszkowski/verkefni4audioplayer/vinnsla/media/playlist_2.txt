@@ -1,0 +1,2 @@
+media/images/BurrowingOwl.png; media/audio/leaving in tears.wav; Leaving in tears
+media/images/Canadian Rockies - Albert Bierstadt.jpg; media/audio/The Last Question_NSP.wav; The Last Question

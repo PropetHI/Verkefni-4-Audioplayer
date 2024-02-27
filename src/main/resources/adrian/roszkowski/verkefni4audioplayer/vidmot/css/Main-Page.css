@@ -1,0 +1,14 @@
+.Atlantis{
+    -fx-background-image: url("images/Atlantis.png");
+    -fx-background-size: 100% 100%;
+}
+
+.WarInBasingse{
+    -fx-background-image: url("images/WarInBasingse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.playlistBorder{
+    -fx-border-width: 5px;
+    -fx-border-color: black;
+}
